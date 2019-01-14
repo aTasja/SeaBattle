@@ -33,3 +33,4 @@ Some screens of game:
 ------------------------------
 
 <img src="https://github.com/aTasja/SeaBattle/blob/master/Start.png" height="500 width="700">
+<img src="https://github.com/aTasja/LuckyStrike/blob/master/main.png"  height="500" width="900">
