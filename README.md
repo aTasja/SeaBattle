@@ -32,4 +32,4 @@ During gameplay, sound effects are used to indicate when a torpedo is loading, w
 Some screens of game:
 ------------------------------
 
-<img src="https://github.com/aTasja/SeaBattle/blob/master/Start.png" height="563 width="784">
+<img src="https://github.com/aTasja/SeaBattle/blob/master/Start.png" height="500 width="700">
