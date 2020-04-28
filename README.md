@@ -1,8 +1,8 @@
 # SeaBattle
 
-[GooglePlay Russian version](https://play.google.com/store/apps/details?id=com.avsappdevelopment.seabattleRU).
-[GooglePlay English version](https://play.google.com/store/apps/details?id=com.avsappdevelopment.seabattle).
-[Gameplay video](https://youtu.be/ywJFWoOecjM).
+[GooglePlay Russian version](https://play.google.com/store/apps/details?id=com.avsappdevelopment.seabattleRU)<br />
+[GooglePlay English version](https://play.google.com/store/apps/details?id=com.avsappdevelopment.seabattle)<br />
+[Gameplay video](https://youtu.be/ywJFWoOecjM)<br />
 
 Sea Battle works a lot like a traditional game from the time of the Soviet slot machines, where the player shoots enemy boats by torpedoes.
 The game has following features:
