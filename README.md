@@ -2,7 +2,7 @@
 
 [GooglePlay Russian version](https://play.google.com/store/apps/details?id=com.avsappdevelopment.seabattleRU)<br />
 [GooglePlay English version](https://play.google.com/store/apps/details?id=com.avsappdevelopment.seabattle)<br />
-[Gameplay video](https://youtu.be/ywJFWoOecjM)<br />
+[![Gameplay video](https://github.com/aTasja/SeaBattle/blob/master/Start.png)](https://youtu.be/ywJFWoOecjM)<br />
 
 Sea Battle works a lot like a traditional game from the time of the Soviet slot machines, where the player shoots enemy boats by torpedoes.
 The game has following features:
@@ -39,4 +39,4 @@ During gameplay, sound effects are used to indicate when a torpedo is loading, w
 Some screens of game:
 ------------------------------
 
-<img src="https://github.com/aTasja/SeaBattle/blob/master/Start.png"  height="563" width="784"> <img src="https://github.com/aTasja/SeaBattle/blob/master/Help.png"  height="563" width="784"> <img src="https://github.com/aTasja/SeaBattle/blob/master/Difficulty.png"  height="563" width="784"> <img src="https://github.com/aTasja/SeaBattle/blob/master/Gameplay1.png"  height="563" width="784"> <img src="https://github.com/aTasja/SeaBattle/blob/master/Gameplay2.png"  height="563" width="784"> <img src="https://github.com/aTasja/SeaBattle/blob/master/Pause.png"  height="563" width="784"> <img src="https://github.com/aTasja/SeaBattle/blob/master/GameOverDefeat.png"  height="563" width="784"> <img src="https://github.com/aTasja/SeaBattle/blob/master/GameOverWin.png"  height="563" width="784">
+<img src="https://github.com/aTasja/SeaBattle/blob/master/Help.png"  height="563" width="784"> <img src="https://github.com/aTasja/SeaBattle/blob/master/Difficulty.png"  height="563" width="784"> <img src="https://github.com/aTasja/SeaBattle/blob/master/Gameplay1.png"  height="563" width="784"> <img src="https://github.com/aTasja/SeaBattle/blob/master/Gameplay2.png"  height="563" width="784"> <img src="https://github.com/aTasja/SeaBattle/blob/master/Pause.png"  height="563" width="784"> <img src="https://github.com/aTasja/SeaBattle/blob/master/GameOverDefeat.png"  height="563" width="784"> <img src="https://github.com/aTasja/SeaBattle/blob/master/GameOverWin.png"  height="563" width="784">
