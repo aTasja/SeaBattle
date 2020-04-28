@@ -1,8 +1,6 @@
 # SeaBattle
 
-GooglePlay Russian version
---------------------------
-https://play.google.com/store/apps/details?id=com.avsappdevelopment.seabattleRU
+[GooglePlay Russian version](https://play.google.com/store/apps/details?id=com.avsappdevelopment.seabattleRU)
 
 ## GooglePlay English version - https://play.google.com/store/apps/details?id=com.avsappdevelopment.seabattle
 
